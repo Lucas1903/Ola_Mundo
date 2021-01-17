@@ -6,3 +6,11 @@
  Novo teste para testar o teste    
  
  Teste Markdown
+
+**negrito**
+
+__negrito__
+
+*itálico*
+
+_itálico_
